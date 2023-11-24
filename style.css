@@ -1,0 +1,59 @@
+
+
+h1 {
+    text-align: center;
+    background-color:chocolate;
+    color: white;
+    padding: 10px;
+    
+}
+
+
+h2 {
+    color: blueviolet;
+    text-align: right;
+    font-size: 24px;
+    background-color: aqua;
+    padding: 10px;
+}
+
+p {
+    line-height: 1.5;
+    text-align: justify;
+    font-size: 16px;
+    font-family: 'Roboto Mono', monospace;
+    color: black;
+}
+.fortnite-tabla {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.fortnite-tabla th, .fortnite-tabla td {
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.fortnite-tabla th {
+    background-color: #3498db;
+    color: white;
+}
+
+img {
+    width: 200px;
+    border: solid blue 10px;
+    border-radius: 10%;
+    margin-left: 40%;
+    margin-right: 40%;
+    
+}
+
+strong {
+    font-weight: 900;
+    background-color: red;
+    color: black;
+}
+* {
+    background-color: cadetblue;
+}
